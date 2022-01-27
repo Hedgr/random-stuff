@@ -1,0 +1,5 @@
+loop {
+click
+}
+
+p::ExitApp
